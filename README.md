@@ -1,6 +1,6 @@
 # COVID-19-TRACKING-APPLICATION
 1. Video'da genel kullanım gösterimi amaçlanmıştır.
-2. Video'da V rapid api’de bazen tarih bazlı api call yapıldığında , response Nil gelebiliyor. Çünkü rest servislerinin çıktısı bu tarih için yok. Bu durumlarda uygulamanın çökmemesi için kullanıcıya ekranda bir mesaj yoluyla başka bir tarih seçtirerek, (uygulamanın çökmemesi için) kullanıma devam etmesi sağlandığı gösterilmeye çalışılmıştır.
+2. Video'da V rapid api’de bazen tarih bazlı api call yapıldığında , response Nil gelebiliyor. Çünkü rest servislerinin çıktısı bu tarih için yok. Bu durumlarda uygulamanın çökmemesi için kullanıcıya ekranda bir mesaj yoluyla başka bir tarih seçtirerek, (uygulamanın çökmemesi için) kullanıma devam etmesi sağlandığı gösterimi amaçlanmıştır.
 
 
 
