@@ -1,0 +1,120 @@
+
+/* Class = "UILabel"; text = "Total : "; ObjectID = "0Fv-PP-rEW"; */
+"0Fv-PP-rEW.text" = "Toplam : ";
+
+/* Class = "UILabel"; text = "New : "; ObjectID = "1TP-WJ-ZRQ"; */
+"1TP-WJ-ZRQ.text" = "Yeni : ";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "1hQ-GD-jfl"; */
+"1hQ-GD-jfl.text" = "0";
+
+/* Class = "UILabel"; text = "Total Confirmed Test : "; ObjectID = "3dp-b0-Wbd"; */
+"3dp-b0-Wbd.text" = "Toplam Test : ";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "4hj-zM-Djf"; */
+"4hj-zM-Djf.text" = "0";
+
+/* Class = "UILabel"; text = "Active : "; ObjectID = "5Z5-94-wIk"; */
+"5Z5-94-wIk.text" = "Aktif : ";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "5s9-yH-Ci9"; */
+"5s9-yH-Ci9.text" = "0";
+
+/* Class = "UILabel"; text = "Case Details"; ObjectID = "7IU-C3-iuL"; */
+"7IU-C3-iuL.text" = "Vaka Detayları";
+
+/* Class = "UIButton"; configuration.title = "Share "; ObjectID = "7nN-c2-KXz"; */
+"7nN-c2-KXz.configuration.title" = "Paylaş ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7nN-c2-KXz"; */
+"7nN-c2-KXz.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Death Details"; ObjectID = "A03-aD-mE8"; */
+"A03-aD-mE8.text" = "Vefat Detayları";
+
+/* Class = "UINavigationItem"; title = "Main Page"; ObjectID = "Ank-Dv-VmD"; */
+"Ank-Dv-VmD.title" = "Ana Sayfa ";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "B40-3B-2g8"; */
+"B40-3B-2g8.text" = "0";
+
+/* Class = "UILabel"; text = "Total : "; ObjectID = "CwI-qT-oyT"; */
+"CwI-qT-oyT.text" = "Toplam : ";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "DOv-Sn-WmI"; */
+"DOv-Sn-WmI.text" = "0";
+
+/* Class = "UILabel"; text = "Tests Details"; ObjectID = "HPN-mA-nHG"; */
+"HPN-mA-nHG.text" = "Test Detayları";
+
+/* Class = "UILabel"; text = "Total : "; ObjectID = "Hq9-ge-S44"; */
+"Hq9-ge-S44.text" = "Toplam : ";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "I9Q-Sm-V3E"; */
+"I9Q-Sm-V3E.text" = "0";
+
+/* Class = "UINavigationItem"; title = "Details Page"; ObjectID = "M7N-Df-yY3"; */
+"M7N-Df-yY3.title" = "Detay Sayfası ";
+
+/* Class = "UILabel"; text = "New : "; ObjectID = "Pki-GF-MlR"; */
+"Pki-GF-MlR.text" = "New : ";
+
+/* Class = "UINavigationItem"; title = "HistoryPage"; ObjectID = "WJw-kW-Uyn"; */
+"WJw-kW-Uyn.title" = "Geçmiş Sayfası";
+
+/* Class = "UIButton"; configuration.title = "Details"; ObjectID = "Wyp-rF-LN3"; */
+"Wyp-rF-LN3.configuration.title" = "Detaylar";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Wyp-rF-LN3"; */
+"Wyp-rF-LN3.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Z1N-Q9-0yl"; */
+"Z1N-Q9-0yl.text" = "0";
+
+/* Class = "UILabel"; text = "Critical : "; ObjectID = "ZQu-Pq-ZFp"; */
+"ZQu-Pq-ZFp.text" = "Entübe : ";
+
+/* Class = "UIButton"; configuration.title = "See History"; ObjectID = "c5o-JG-hmT"; */
+"c5o-JG-hmT.configuration.title" = "Geçmiş Tarihler";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "c5o-JG-hmT"; */
+"c5o-JG-hmT.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Total Death : "; ObjectID = "dCz-qC-sHX"; */
+"dCz-qC-sHX.text" = "Toplam Vefat : ";
+
+/* Class = "UILabel"; text = "CountryName"; ObjectID = "dHI-zc-SR1"; */
+"dHI-zc-SR1.text" = "Ülke Adı";
+
+/* Class = "UILabel"; text = "Recovered : "; ObjectID = "deW-8s-gFm"; */
+"deW-8s-gFm.text" = "Tedavi Olan : ";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "jRk-Ib-qUr"; */
+"jRk-Ib-qUr.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "k1v-k4-tbc"; */
+"k1v-k4-tbc.text" = "0";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mKJ-yX-1Tw"; */
+"mKJ-yX-1Tw.text" = "Label";
+
+/* Class = "UILabel"; text = "History"; ObjectID = "oe8-u1-bbR"; */
+"oe8-u1-bbR.text" = "Geçmiş";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "owm-DJ-Bdf"; */
+"owm-DJ-Bdf.text" = "Label";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "pZY-JP-Y55"; */
+"pZY-JP-Y55.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "qqA-eF-7B9"; */
+"qqA-eF-7B9.text" = "0";
+
+/* Class = "UILabel"; text = "Last Release :"; ObjectID = "tfQ-zM-DEA"; */
+"tfQ-zM-DEA.text" = "Son Yayınlanma :";
+
+/* Class = "UILabel"; text = "Total Cases  : "; ObjectID = "vSC-bJ-0d4"; */
+"vSC-bJ-0d4.text" = "Toplam Vaka  : ";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "yu7-Sy-mId"; */
+"yu7-Sy-mId.text" = "Time";
